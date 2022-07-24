@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:50:1:10" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:50:0> ;
     skos:prefLabel "Barisal"@eng-Latn ;
-    wdata:q7200235 "BD10" ;
+    wdata:Q7200235 "BD10" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -52,7 +52,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:50:1:20" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:50:0> ;
     skos:prefLabel "Chittagong"@eng-Latn ;
-    wdata:q7200235 "BD20" ;
+    wdata:Q7200235 "BD20" ;
 .
 
 <urn:mdciii:1603:16:50:1:30>
@@ -63,7 +63,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:50:1:30" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:50:0> ;
     skos:prefLabel "Dhaka"@eng-Latn ;
-    wdata:q7200235 "BD30" ;
+    wdata:Q7200235 "BD30" ;
 .
 
 <urn:mdciii:1603:16:50:1:40>
@@ -74,7 +74,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:50:1:40" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:50:0> ;
     skos:prefLabel "Khulna"@eng-Latn ;
-    wdata:q7200235 "BD40" ;
+    wdata:Q7200235 "BD40" ;
 .
 
 <urn:mdciii:1603:16:50:1:45>
@@ -85,7 +85,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:50:1:45" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:50:0> ;
     skos:prefLabel "Mymensingh"@eng-Latn ;
-    wdata:q7200235 "BD45" ;
+    wdata:Q7200235 "BD45" ;
 .
 
 <urn:mdciii:1603:16:50:1:50>
@@ -96,7 +96,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:50:1:50" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:50:0> ;
     skos:prefLabel "Rajshahi"@eng-Latn ;
-    wdata:q7200235 "BD50" ;
+    wdata:Q7200235 "BD50" ;
 .
 
 <urn:mdciii:1603:16:50:1:55>
@@ -107,7 +107,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:50:1:55" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:50:0> ;
     skos:prefLabel "Rangpur"@eng-Latn ;
-    wdata:q7200235 "BD55" ;
+    wdata:Q7200235 "BD55" ;
 .
 
 <urn:mdciii:1603:16:50:1:60>
@@ -118,6 +118,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:50:1:60" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:50:0> ;
     skos:prefLabel "Sylhet"@eng-Latn ;
-    wdata:q7200235 "BD60" ;
+    wdata:Q7200235 "BD60" ;
 .
 
